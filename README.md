@@ -37,7 +37,7 @@ Install using: ```sudo apt install g++```
 nmap – Used by the controller for scanning open ports
 
 Install using: ```sudo-apt install nmap```
-
+ 
 sudo/root privileges – Required for raw socket operations (bots)
 
 Run bots using: ```sudo ./bots/bots```
