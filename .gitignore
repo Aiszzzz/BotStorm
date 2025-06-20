@@ -1,0 +1,7 @@
+# Ignore compiled binaries
+bots/bots
+controller/control
+
+# Ignore build files
+*.o
+*.out
