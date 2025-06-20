@@ -32,15 +32,15 @@ Make sure your system has the following installed:
 
 g++ – To compile the C++ code
 
-Install using: ```bash sudo apt install g++```
+Install using: ```sudo apt install g++```
 
 nmap – Used by the controller for scanning open ports
 
-Install using: ```bash sudo-apt install nmap```
+Install using: ```sudo-apt install nmap```
 
 sudo/root privileges – Required for raw socket operations (bots)
 
-Run bots using: ```bash sudo ./bots/bots```
+Run bots using: ```sudo ./bots/bots```
 
 Linux OS – Recommended: Kali Linux or Ubuntu
 Tested in virtual lab setups
