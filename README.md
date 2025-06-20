@@ -79,6 +79,8 @@ Select attack type (UDP, TCP, ICMP)
 
 Enter target IP address
 
-(For UDP/TCP) Scan and select open port
+If UDP or TCP is selected, the controller will scan and display open ports for the given IP.
+
+For UDP/TCP: Select an open port to target
 
 Once selected, the controller sends the attack command to all connected bots, which begin flooding the target.
